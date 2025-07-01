@@ -1,12 +1,12 @@
 # 🎤 Voice-Controlled Wheelchair using Arduino
 
 A smart assistive mobility solution that moves in response to voice commands via Bluetooth, integrating an ultrasonic sensor for obstacle detection.
----
+
 
 ## 📌 Project Summary
 
 This project enables a wheelchair to respond to five basic voice commands (Forward, Backward, Left, Right, Stop) using a smartphone and Bluetooth module. It ensures safe motion by halting forward movement if an obstacle is detected within 20cm.
----
+
 
 ## 🛠️ Components and Technologies Used
 
