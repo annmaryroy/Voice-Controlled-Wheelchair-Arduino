@@ -89,6 +89,11 @@ voice-controlled-wheelchair/
 │   └── VOICE_CONTROLLED_WHEELCHAIR_report.pdf
 ├── media/
 │   └── (block_diagram.png)
+│   └── (Picture1.png)
+│   └── (Picture2.png)
+│   └── (Arduino bluetooth control application.png)
+│   └── (Video1.mp4)
+│   └── (Video2.mp4)
 ├── presentation/
 │   └──  voice_controlled_final_ppt.pptx
 ├── README.md
