@@ -1,4 +1,5 @@
 # 🎤 Voice-Controlled Wheelchair using Arduino
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 A smart assistive mobility solution that moves in response to voice commands via Bluetooth, integrating an ultrasonic sensor for obstacle detection.
 
