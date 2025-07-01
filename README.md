@@ -88,7 +88,7 @@ voice-controlled-wheelchair/
 ├── report/
 │   └── VOICE_CONTROLLED_WHEELCHAIR_report.pdf
 ├── media/
-│   └── (circuit_diagram.png)
+│   └── (block_diagram.png)
 ├── presentation/
 │   └──  voice_controlled_final_ppt.pptx
 ├── README.md
